@@ -5,6 +5,10 @@ Any scripts, software, or other services offered in this repository are propriet
 
 You can request the decryption key: "127.30d.pastor976@slmail.me"
 
-# process number "127.4.156.30d"
-# Joint operation "127.1.117.30k"
-# Joint operation "127.17.345.29m"
+### team
+
+| practical | completion |
+| ------- | ---------- |
+| `127.4.156.30d` | `%18` |
+| `127.1.117.30k` | `%92` |
+| `127.17.345.29m` | `%64` |
